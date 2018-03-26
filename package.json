@@ -21,5 +21,16 @@
   },
   "dependencies": {
     "zeppelin-solidity": "^1.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wl-tsui/dworld-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wl-tsui/dworld-contracts/issues"
+  },
+  "homepage": "https://github.com/wl-tsui/dworld-contracts#readme"
 }
